@@ -1,17 +1,17 @@
 {
-  "name": "vm-tipset",
-  "version": "1.0.0",
+  "name":0",  "name": "vm-tipset",
   "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build"
   },
   "dependencies": {
+    "firebase": "^10.12.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "firebase": "^10.12.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "vite": "^5.0.0"
   }
 }
+
